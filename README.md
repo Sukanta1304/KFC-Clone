@@ -13,7 +13,7 @@
 * CSS
 * Javascript
 
-* Some screenshots of our website -
+##Some screenshots of our website -
 
 ### Home page
 This is our landing page and most of the features are working , by clicking anyone of these user will redirect to the respective pages . 
